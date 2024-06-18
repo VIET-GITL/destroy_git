@@ -7,3 +7,4 @@ fetch('https://jsonplaceholder.typicode.com/posts')
 console.log("login")
 
 console.log('Viet da sua file login.js');
+console.log("login")
