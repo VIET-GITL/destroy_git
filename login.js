@@ -5,3 +5,5 @@ fetch('https://jsonplaceholder.typicode.com/posts')
     .then(data => console.log(data));
 
 console.log("login")
+
+console.log('Viet da sua file login.js');
